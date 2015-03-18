@@ -1,14 +1,12 @@
 ##A Quick Sprint Through What I've Learnt So Far##
 
-=====================================
-
 This is a repo just for personal reflection. It will likely not get taken to completion.
 
 I will attempt to recreate what i've created so far in the 'boris-bikes' repo from memory a few times.
 
-This is just to help me engrain the TDD/BDD process, in an OOP project. And start to get myself to the point where its hardcoded in my mind.
+This is just to help me engrain the TDD/BDD process, in an OOP project. And start to get myself to the point where the BDD process is hardcoded in my mind.
 
-If you wish to contribute, 'boris-bikes' will be the actual project repo to look at.
+If you wish to contribute or use, ['boris-bikes'](https://github.com/DanBlakeman/boris-bikes) will be the actual project repo to look at.
 
 However if you have comments or advice on what you see here, please feel welcome to leave a comment!
 
